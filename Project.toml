@@ -17,6 +17,7 @@ Random = "9a3f8284-a2c9-5f02-9a11-845980a1fd5c"
 Reexport = "189a3867-3050-52da-a836-e630ba90ab69"
 Statistics = "10745b16-79ce-11e8-11f9-7d13ad32a3b2"
 ThreadPinning = "811555cd-349b-4f26-b7bc-1f208b848042"
+ThreadPools = "b189fb0b-2eb5-4ed4-bc0c-d34c51242431"
 UnicodePlots = "b8865327-cd53-5732-bb35-84acbb429228"
 
 [weakdeps]
